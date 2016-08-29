@@ -1,0 +1,6 @@
+framework module ZQAlertController {
+  umbrella header "ZQAlertController.h"
+
+  export *
+  module * { export * }
+}
