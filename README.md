@@ -4,7 +4,7 @@ ZQAlertController , that is an alert view framework and be compitable with iOS 7
 ## Requirements
 
 - iOS 8.0+ 
-- Xcode 7.3+
+- Xcode 7.0+
 
 ### Carthage
 
@@ -17,7 +17,7 @@ $ brew update
 $ brew install carthage
 ```
 
-To integrate Alamofire into your Xcode project using Carthage, specify it in your `Cartfile`:
+To integrate ZQAlertController into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
 github "VictorZhang2014/ZQAlertController" ~> 1.0
